@@ -1,0 +1,40 @@
+{
+  "wishItems": [
+    {
+      "id": 1,
+      "name": "CADA ALFA ROMEO F1",
+      "price": 4500,
+      "image": "https://decadastore.com/cdn/shop/files/5_df6cdf4e-2b11-4be5-b0ba-dd356723bf6d.jpg?v=1693210493&width=1080",
+      "description": "F1 Sauber constructor model",
+      "link":"https://allegro.cz/nabidka/kostky-cada-alfa-romeo-team-formule-f1-orlen-cerveny-zavodnik-1868-el-14784776536?ev_campaign_id=20758061453",
+      "currency": "CZK"
+    },
+    {
+      "id": 2,
+      "name": "Thrustmaster T300 RS GT Edition",
+      "price": 9990,
+      "image": "https://image.alza.cz/products/MA516h4/MA516h4.jpg?width=1000&height=1000",
+      "description": "Thrustmaster T300 RS GT Edition wheel for simracing",
+      "link": "https://www.alza.cz/gaming/thrustmaster-t300-rs-gt-edition-d4565437.htm?o=1",
+      "currency": "CZK"
+    },
+    {
+      "id": 3,
+      "name": "Xbox Wireless Headset",
+      "price": 2400,
+      "image": "https://image.alza.cz/products/MXO009d/MXO009d.jpg?width=1000&height=1000",
+      "description": "Xbox Wireless Headset for better view of desk",
+      "link": "https://www.alza.cz/xbox-wireless-headset-d6334302.htm",
+      "currency": "CZK"
+    },
+    {
+      "id": 4,
+      "name": "Moonlander ergo keyboard",
+      "price": 365,
+      "image": "https://res.cloudinary.com/zsa-technology/image/upload/f_auto/q_auto/c_scale,w_3439/v1/zsa-io-refactor-prod/1-hero-white.png?_a=DATAcJAAZAA0",
+      "description": "Moonlander ergo keyboard for hands health",
+      "link": "https://www.zsa.io/moonlander/buy",
+      "currency": "USD"
+    }
+  ]
+}
